@@ -20,7 +20,7 @@ namespace ProyectoCrud.Model
 
         public string otroUsuario2 { get; set; }
 
-        public string perfil { get; set; }
+        public string perfilesFreddy { get; set; }
 
 
         public String Titulacion { get; set; }
