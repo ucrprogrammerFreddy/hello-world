@@ -23,7 +23,7 @@ namespace ProyectoCrud.Model
         public string perfil { get; set; }
 
 
-        public int? Titulaciones { get; set; }
+        public String Titulacion { get; set; }
 
 
     }
