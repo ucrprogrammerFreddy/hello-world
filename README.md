@@ -1,4 +1,2 @@
 # hello-world
-Este repositorio es para practicar el flujo de github
-
-ESTE ES UN CAMBIO EN LA redme-edits para generar conflicto
+La solución de confictos es un tema muy importante en la actualizada para manejar control de versiones de nuestros repositorios 
