@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace ProyectoCrud.Model
 {
+
     public class Usuario
     {
         public int IdUsuario { get; set; }
@@ -15,7 +16,7 @@ namespace ProyectoCrud.Model
 
         public String fechaNacimiento { get; set; }
 
-
+        public String Email { get; set; }
 
 
     }
