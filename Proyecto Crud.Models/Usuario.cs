@@ -18,7 +18,8 @@ namespace ProyectoCrud.Model
 
         public String fechaNacimiento { get; set; }
 
-        public String OtroUsuario { get; set; }
+        public string otroUsuario2 { get; set; }
+
 
         public String? Titulacion { get; set; }
 
