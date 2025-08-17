@@ -20,5 +20,8 @@ namespace ProyectoCrud.Model
 
         public String OtroUsuario { get; set; }
 
+        public String? Titulacion { get; set; }
+
+
     }
 }
