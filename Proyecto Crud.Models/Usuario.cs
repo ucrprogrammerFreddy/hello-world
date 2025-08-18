@@ -36,14 +36,7 @@ namespace ProyectoCrud.Model
 
 
 
-        public String FechaRegistro { get; set; }
-
-        public string FechaUltimoAcceso { get; set; }
-
-        public string rol { get; set; }
-
-        public string? email { get; set; }
-
+       
 
 
 
