@@ -21,4 +21,6 @@ public partial class Contacto
     public string miescritorio { get; set; }
     public string migestion { get; set; }
 
+    public string escritoriolocal2 { get; set; }
+
 }
