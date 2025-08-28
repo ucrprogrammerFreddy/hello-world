@@ -16,4 +16,5 @@ public partial class Contacto
     public DateTime? FechaRegistro { get; set; }
 
     public string Esctritorio2 { get; set; }
+    public string Escritorio { get; set; }
 }
