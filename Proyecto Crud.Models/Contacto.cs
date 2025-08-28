@@ -14,4 +14,6 @@ public partial class Contacto
     public DateOnly? FechaNacimiento { get; set; }
 
     public DateTime? FechaRegistro { get; set; }
+
+    public string nuevocontacto { get; set; }
 }
