@@ -18,4 +18,5 @@ public partial class Contacto
     public string Esctritorio2 { get; set; }
     public string Escritorio { get; set; }
     public string escritorio3 { get; set; }
+    public string miescritorio { get; set; }
 }
