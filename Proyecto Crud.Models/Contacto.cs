@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 
 namespace ProyectoCrud.Models;
@@ -15,11 +15,15 @@ public partial class Contacto
 
     public DateTime? FechaRegistro { get; set; }
 
+
     public string Esctritorio2 { get; set; }
     public string Escritorio { get; set; }
     public string escritorio3 { get; set; }
     public string miescritorio { get; set; }
     public string migestion { get; set; }
+
+
+    public string nuevocontacto { get; set; }
 
     public string escritoriolocal2 { get; set; }
 
