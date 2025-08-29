@@ -5,6 +5,7 @@ namespace ProyectoCrud.Models;
 
 public partial class Contacto
 {
+
     public int IdContacto { get; set; }
 
     public string? Nombre { get; set; }
@@ -15,16 +16,18 @@ public partial class Contacto
 
     public DateTime? FechaRegistro { get; set; }
 
-
     public string Esctritorio2 { get; set; }
     public string Escritorio { get; set; }
     public string escritorio3 { get; set; }
     public string miescritorio { get; set; }
     public string migestion { get; set; }
 
-
     public string nuevocontacto { get; set; }
 
-    public string escritoriolocal2 { get; set; }
+    public string escritoriolocal5 { get; set; }
+
+    public string holaquetal { get; set; }
+
+
 
 }
