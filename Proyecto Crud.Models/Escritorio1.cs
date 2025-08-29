@@ -12,7 +12,7 @@ namespace Proyecto_Crud.Models
 
            public string Escritorio1Prop { get; set; }
            public string nombre { get; set; }
-          public string codigo { get; set; }
+          public string? codigo { get; set; }
           
 
     }
